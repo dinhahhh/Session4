@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+    padding: 0;
+text-align: center;
+}
+h1{
+background-color: black;
+color: white;
+line-height: 60px;
+}
+p {
+background-color: grey;
+line-height: 30px;
+}
+a{
+    margin-right: 10px;
+}
