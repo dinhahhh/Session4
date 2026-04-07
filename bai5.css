@@ -1,0 +1,17 @@
+
+.p1{
+color: rgb(24, 145, 237);
+}
+.p2{
+color:red;
+}
+.p4{
+color: rgb(240, 165, 36);
+}
+.box{ 
+    border-left: 5px solid; border-left-color: orange;
+    background-color:rgb(242, 233, 133);width: 700px;
+}
+.p3{
+margin: 10px;
+}
