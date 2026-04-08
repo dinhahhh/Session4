@@ -1,0 +1,19 @@
+*{
+text-align: center;
+margin: 0px;
+}
+.quote{
+background-color: rgb(247, 247, 192);
+width: 400px;height: 100px;
+text-align: center;
+padding: 100px;
+line-height: 30px;
+}
+h1{
+font-family:arial ;
+color: rgb(10, 76, 182);
+}
+button:hover{
+background-color: green;
+color: white;
+}
